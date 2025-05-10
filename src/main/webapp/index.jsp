@@ -33,10 +33,10 @@
 <body>
     <div class="container">
         <marquee behavior="scroll" direction="left" scrollamount="4">
-            <h1>Welcome to Pythonlife DevOps Course</h1>
+            <h1>Welcome to Pythonlife DevOps JObs Course</h1>
         </marquee>
         <ul>
-            <li><strong>Learn DevOps Methodology and Frame-work </strong></li>
+            <li><strong>Learn DevOps Methodology and Culture </strong></li>
             <li><strong>Master the art of automation and continuous integration</strong></li>
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
